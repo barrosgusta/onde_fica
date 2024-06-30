@@ -1,0 +1,23 @@
+<?php
+return [
+    'doc1' => 'Visa de Entrada',
+    'doc1About' => 'La visa de entrada es necesaria para ingresar a Brasil. Puede ser solicitada en una embajada o consulado brasileño en el país de origen.',
+    'doc2' => 'CPF',
+    'doc2About' => 'El CPF es un documento necesario para realizar diversas actividades en Brasil, como abrir una cuenta bancaria y obtener empleo.',
+    'doc3' => 'Cédula de Trabajo',
+    'doc3About' => 'La cédula de trabajo es un documento necesario para obtener empleo en Brasil. Debe ser solicitada en una unidad del Ministerio de Trabajo.',
+    'doc4' => 'Registro Nacional de Extranjeros (RNE)',
+    'doc4About' => 'El RNE es un documento necesario para regularizar la situación migratoria en Brasil. Debe ser solicitado en la Policía Federal.',
+    'doc5' => 'Licencia de Conducir',
+    'doc5About' => 'La licencia de conducir es un documento necesario para conducir vehículos en Brasil. Debe ser solicitada en una unidad del Departamento de Tránsito.',
+    'doc6' => 'Registro de Nacimiento',
+    'doc6About' => 'El registro de nacimiento es un documento necesario para obtener otros documentos en Brasil, como el CPF y la cédula de identidad.',
+    'doc7' => 'Cédula de Identidad',
+    'doc7About' => 'La cédula de identidad es un documento necesario para la identificación personal en Brasil. Debe ser solicitada en una unidad del Instituto de Identificación.',
+    'doc8' => 'Certificado de Matrimonio',
+    'doc8About' => 'El certificado de matrimonio es un documento necesario para comprobar el estado civil en Brasil. Debe ser solicitado en un registro civil.',
+    'doc9' => 'Certificado de Nacimiento',
+    'doc9About' => 'El certificado de nacimiento es un documento necesario para comprobar la filiación en Brasil. Debe ser solicitado en un registro civil.',
+    'doc10' => 'Comprobante de Domicilio',
+    'doc10About' => 'El comprobante de domicilio es un documento necesario para comprobar la dirección en Brasil. Puede ser solicitado en una oficina de atención de la compañía eléctrica.',
+];

@@ -6,9 +6,14 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "blade-ui-kit/blade-icons": "^1.6",
+        "blade-ui-kit/blade-ui-kit": "^0.6.2",
+        "blade-ui-kit/blade-zondicons": "^1.5",
+        "codeat3/blade-carbon-icons": "^2.27",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9",
-        "laravel/vapor-core": "^2.37"
+        "laravel/vapor-core": "^2.37",
+        "owenvoke/blade-fontawesome": "^2.6"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
